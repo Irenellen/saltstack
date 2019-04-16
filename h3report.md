@@ -7,4 +7,4 @@ Command shows log about version history for the branch. It shows author, date an
 Command shows made changes that has not yet committed.
 
 	git blame
-Command shows the last person who edited the file. Add filename to the end.
+Command shows the last person who edited the file. Add filename to the end. It includes the editor name, date and the edited lines.
