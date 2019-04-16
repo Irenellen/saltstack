@@ -1,4 +1,4 @@
-#Homework 3
+# Homework 3
 
 	git log
 Command shows log about version history for the branch. It shows author, date and commit.
